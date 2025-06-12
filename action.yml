@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Samuca Podcast Generator"
 author: "Samuel Barros"
 description: "Generates a Feed for a Podcast from a YAML file"
 runs:
